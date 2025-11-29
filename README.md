@@ -1,4 +1,4 @@
-# Vision Attend – FastAPI Backend
+# Vision Attend – FastAPI Server
 
 **Vision Attend** is a real-time classroom attendance automation system powered by Siamese Neural Network and Triplet Loss.  
 This backend handles camera streaming, face detection, and prediction.
